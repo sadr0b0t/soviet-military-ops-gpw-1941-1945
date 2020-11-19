@@ -59,7 +59,7 @@ https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/tree/main/src/appe
 
 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.  
 https://drive.google.com/open?id=1cl4qhQ8IePwJY5ug7E-vQXWHLog3KvW3  
-[src/appendix/vol1/2-1 - Лист 2 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.jpg](https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/2-1 - Лист 2 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.jpg)
+[src/appendix/vol1/2-1 - Лист 2 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.jpg](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/2-1 - Лист 2 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.jpg>)
 
 ### Лист 3 (На одном листе пять схем)
 
@@ -77,17 +77,17 @@ TODO
 
 Схема 7. Армейский оборонительный рубеж (вариант).  
 https://drive.google.com/open?id=1vdWXazlnIWy4vUzPaR9WPUC2yCKDLJd7  
-[src/appendix/vol1/3-7-1 - Схема 7. Армейский оборонительный рубеж (вариант).png](https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/3-7-1 - Схема 7. Армейский оборонительный рубеж (вариант).png)
+[src/appendix/vol1/3-7-1 - Схема 7. Армейский оборонительный рубеж (вариант).png](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/3-7-1 - Схема 7. Армейский оборонительный рубеж (вариант).png>)
 
 ### Лист 4
 
 Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.)  
 https://drive.google.com/file/d/1KGdJ5nTEGWLv3C9cDO9XPatR4XOe7JKD/view?usp=sharing  
-[src/appendix/vol1/8-1 - Лист 4. Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.).png](https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/8-1 - Лист 4. Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.).png)
+[src/appendix/vol1/8-1 - Лист 4. Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.).png](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/8-1 - Лист 4. Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.).png>)
 
 ### Лист 5.
 
 Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.)  
 https://drive.google.com/file/d/15-GMOAsmvh3T3BYPid9aZegyNvIwO2Rp/view?usp=sharing  
-[src/appendix/vol1/9-1 - Лист 5. Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.).png](https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/9-1 - Лист 5. Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.).png)
+[src/appendix/vol1/9-1 - Лист 5. Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.).png](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/9-1 - Лист 5. Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.).png>)
 
