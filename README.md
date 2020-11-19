@@ -63,7 +63,7 @@ https://dragon-first-1.livejournal.com/39827.html?thread=998291#t998291
 
 https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/tree/main/src/appendix/vol1
 
-## Лист 1.
+### Лист 1
 
 Схема 1. Немецкий план войны против СССР (План "Барбаросса")  
 https://drive.google.com/file/d/1LJ9UK16ubn0vDt2U4PEcTU1zlnF9ozYw/view?usp=sharing  
