@@ -37,28 +37,44 @@ https://dragon-first-1.livejournal.com/39827.html
 
 Текст первого тома:  
 https://drive.google.com/file/d/1e4OuncwrwVZFEzaIv3gwxeby84y_ot7U/view?usp=sharing  
+https://yadi.sk/i/sI7ryOEraB8qiA  
 http://gen.lib.rus.ec/book/index.php?md5=EB4C96232C6D55B0AC3AE9AE3B1891C2
 
 Текст второго тома:  
 https://drive.google.com/file/d/1d5MrATQP_Dt4LrfXCZPGrMRV1Dvkhvfv/view?usp=sharing  
+https://yadi.sk/d/QX6Hs_0bX86KjA  
 http://gen.lib.rus.ec/book/index.php?md5=01B9E19479E16EDB0A9BF50627745E27
 
 Текст третьего тома:  
 https://drive.google.com/file/d/1qC8Ogp4KMBRFxVvVdtfnq1AojvrW6EB3/view?usp=sharing  
+https://yadi.sk/d/qqRy6iGTPKVYCQ  
 http://gen.lib.rus.ec/book/index.php?md5=A522FF9A795F10CAE48894633C391FF7
 
 Текст четвертого тома:  
 https://drive.google.com/file/d/1uJBKjiVCeOp8kgqqBGCWry2bKL9a3ps7/view?usp=sharing  
+https://yadi.sk/d/Pw1QakheFyK4hg  
 http://gen.lib.rus.ec/book/index.php?md5=2432FA3B4E4E07DEBAAD88C3A3C031C8
+
+
+потерявшиеся при сборке страницы: https://dragon-first-1.livejournal.com/40125.html  
+https://dragon-first-1.livejournal.com/39827.html?thread=998291#t998291
 
 # Схемы (приложения) к первому тому:
 
 https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/tree/main/src/appendix/vol1
 
+## Лист 1.
+
+Схема 1. Немецкий план войны против СССР (План "Барбаросса")  
+https://drive.google.com/file/d/1LJ9UK16ubn0vDt2U4PEcTU1zlnF9ozYw/view?usp=sharing  
+https://yadi.sk/i/vJOVnNFCSdKXBg  
+[src/appendix/vol1/1-1 - Схема 1. Немецкий план войны против СССР (План "Барбаросса").png](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/1-1 - Схема 1. Немецкий план войны против СССР (План "Барбаросса").png>)
+
 ### Лист 2
 
 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.  
 https://drive.google.com/open?id=1cl4qhQ8IePwJY5ug7E-vQXWHLog3KvW3  
+https://yadi.sk/i/kE8PzBQ-9muZuA  
 [src/appendix/vol1/2-1 - Лист 2 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.jpg](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/2-1 - Лист 2 Схема 2. Группировка сил на советско-германском фронте к началу Великой Отечественной войны.jpg>)
 
 ### Лист 3 (На одном листе пять схем)
@@ -77,17 +93,20 @@ TODO
 
 Схема 7. Армейский оборонительный рубеж (вариант).  
 https://drive.google.com/open?id=1vdWXazlnIWy4vUzPaR9WPUC2yCKDLJd7  
+https://yadi.sk/i/UDUaPkp_31dJ8w  
 [src/appendix/vol1/3-7-1 - Схема 7. Армейский оборонительный рубеж (вариант).png](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/3-7-1 - Схема 7. Армейский оборонительный рубеж (вариант).png>)
 
 ### Лист 4
 
 Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.)  
 https://drive.google.com/file/d/1KGdJ5nTEGWLv3C9cDO9XPatR4XOe7JKD/view?usp=sharing  
+https://yadi.sk/i/0HZ3QAxckdg-9Q  
 [src/appendix/vol1/8-1 - Лист 4. Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.).png](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/8-1 - Лист 4. Схема 8. Ход боевых действий в начальный период войны на северо-западном и западном направлениях (22.6-9.7 1941 г.).png>)
 
 ### Лист 5.
 
 Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.)  
 https://drive.google.com/file/d/15-GMOAsmvh3T3BYPid9aZegyNvIwO2Rp/view?usp=sharing  
+https://yadi.sk/i/A0ByTdRhbym5FA  
 [src/appendix/vol1/9-1 - Лист 5. Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.).png](<https://github.com/sadr0b0t/soviet-military-ops-gpw-1941-1945/blob/main/src/appendix/vol1/9-1 - Лист 5. Схема 9. Ход боевых действий в начальный период войны на юго-западном направлении (22.6-9.7 1941 г.).png>)
 
