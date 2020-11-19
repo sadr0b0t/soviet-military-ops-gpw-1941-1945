@@ -2,7 +2,7 @@
 
 Некоторые материалы проекта оцифровки труда «Операции советских вооруженных сил в Великой Отечественной войне 1941-1945 (военно-исторический очерк)» в 4-х томах.
 
-Проект оцифровки: [dragon_first_1](https://dragon-first-1.livejournal.com/) 
+Проект оцифровки: [dragon_first_1](https://dragon-first-1.livejournal.com/)  
 https://dragon-first-1.livejournal.com/39827.html
 
 > Уважаемые читатели!
