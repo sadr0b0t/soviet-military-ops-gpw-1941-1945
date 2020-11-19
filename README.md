@@ -36,7 +36,7 @@ https://dragon-first-1.livejournal.com/39827.html
 [LibGen](http://libgen.rs/search.php?req=+%09Операции+советских+вооруженных+сил+в+Великой+Отечественной+войне&open=0&res=25&view=simple&phrase=1&column=def)
 
 Текст первого тома:  
-https://drive.google.com/file/d/1e4OuncwrwVZFEzaIv3gwxeby84y_ot7U/view?usp=sharing
+https://drive.google.com/file/d/1e4OuncwrwVZFEzaIv3gwxeby84y_ot7U/view?usp=sharing  
 http://gen.lib.rus.ec/book/index.php?md5=EB4C96232C6D55B0AC3AE9AE3B1891C2
 
 Текст второго тома:  
